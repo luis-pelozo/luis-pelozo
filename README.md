@@ -1,6 +1,15 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=luis-pelozo&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
 ### Luis Fernando F. Pelozo
+
+<p>
+  
+  Estudante de Analise e Desenvolvimento de Sistemas
+  
+  Analista de sistemas no Grupo HCM, atuando com implantação de sistema e análise e correção de bugs.
+  Além de analista, também um entusiasta na área de tecnologia
+  
+  
 <!--
 **luis-pelozo/luis-pelozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
