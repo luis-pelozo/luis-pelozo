@@ -1,4 +1,8 @@
 ## Olá, eu sou o Luis Fernando
+
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/luis-pelozo/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
+
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
