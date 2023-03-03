@@ -22,7 +22,7 @@
  <img height="167em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luis-pelozo&layout=compact&langs_count=8&theme=algolia" alt="**LUIS FERNANDO** github stats"/>
 </a>  
 
-  
+</br>
 <p align="left">
   
  <a href="https://www.instagram.com/fogueirx/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
