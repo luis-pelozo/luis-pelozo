@@ -1,17 +1,17 @@
 
+
+
+## Olá! Eu sou o Luis Fernando  :coffee:
+
+
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
-### Luis Fernando F. Pelozo
-
-<p>
+</br>
   
   Estudante de Analise e Desenvolvimento de Sistemas na uniSenai - Joinville.
   
   Analista de sistemas no Grupo HCM, atuando com implantação de sistema e análise e correção de bugs.
   Além de analista, também um entusiasta na área de tecnologia, atualmente com foco em Desenvolvimento Front-End.
   
-  
-
 ## **GitHub Estatísticas**
 
   <a href="https://github.com/luis-pelozo">
@@ -23,6 +23,8 @@
 </a>  
 
 </br>
+</br>
+
 <p align="left">
   
  <a href="https://www.instagram.com/fogueirx/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
