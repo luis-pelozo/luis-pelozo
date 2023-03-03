@@ -34,4 +34,6 @@
 
 </p>  
   
+![Snake animation](https://github.com/luis-pelozo/luis-pelozo/blob/output/github-contribution-grid-snake.svg)
+
   
