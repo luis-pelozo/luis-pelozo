@@ -15,7 +15,7 @@
 ## **GitHub Estatísticas**
 
   <a href="https://github.com/luis-pelozo">
-  <img height="168em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luis-pelozo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="167em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luis-pelozo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
 </a>
 
 <a href="https://github.com/luis-pelozo">
