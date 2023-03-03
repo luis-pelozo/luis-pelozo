@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://github.com/luis-pelozo">
- <img height="168em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luis-pelozo&layout=compact&langs_count=8&theme=algolia" alt="**LUIS FERNANDO** github stats"/>
+ <img height="167em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luis-pelozo&layout=compact&langs_count=8&theme=algolia" alt="**LUIS FERNANDO** github stats"/>
 </a>  
 
   
