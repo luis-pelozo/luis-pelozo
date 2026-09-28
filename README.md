@@ -7,8 +7,6 @@
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 </br>
   
-  Estudante de Analise e Desenvolvimento de Sistemas na uniSenai - Joinville.
-  
   Analista de sistemas no Grupo HCM, atuando com implantação de sistema e análise e correção de bugs.
   Além de analista, também um entusiasta na área de tecnologia, atualmente com foco em Desenvolvimento Front-End.
   
